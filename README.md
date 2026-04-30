@@ -118,5 +118,3 @@ Poor credit allocation may push harmful land exploitation.
 Introduce community credit scoring inputs (e.g., cooperative membership, farming sustainability practices).
            Reflection
 This challenge shifts AI from a tool of efficiency to an instrument of dignity. Initially, AI appears neutral and data-driven, but in practice, it reflects societal inequalities unless intentionally corrected. In African fintech, ethical design means embedding cultural context, protecting sovereignty, and prioritizing fairness over scale. Frameworks like ETHOS, OASIS, and PRIDE demonstrate that responsible AI is not just technical—it is social, legal, and human-centered. True innovation is not faster loan approvals, but equitable access to opportunity. AI must serve people, not just optimize systems, ensuring that growth uplifts communities rather than excluding them.
-
-                 Quiz Answers (Ethical Savannah)
